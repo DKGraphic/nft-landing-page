@@ -43,11 +43,7 @@ body {
 header {
   box-shadow: var(--header-shadow);
 }
-{
-  background: url(mountain.jpg);
-  background-repeat: no-repeat;
-  background-size: 300px 100px;
-}
+
 header .container {
   flex-direction: row;
   justify-content: space-between;
